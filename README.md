@@ -24,5 +24,4 @@ A responsive pricing panel webpage built using **HTML** and **CSS**, featuring t
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/price-tiers.git
-```
 
